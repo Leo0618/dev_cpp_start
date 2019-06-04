@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\dev_cpp_start.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\dev_cpp_start.dir/objects.a @CMakeFiles\dev_cpp_start.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\dev_cpp_start.dir/objects.a -Wl,--no-whole-archive  -o dev_cpp_start.exe -Wl,--out-implib,libdev_cpp_start.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dev_cpp_start.dir\linklibs.rsp
